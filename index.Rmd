@@ -1,0 +1,20 @@
+---
+title: "Liner's awesome website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+# Welcome to my website!
+
+## Why I am intersted in a PhD in Biostatistics at Duke University
+
+![Liner Ge](liner.mp4)
+
+Hi this is Liner. My name is similar to linear. I think it might be some kind of destiny tying me to biostatistics. Biostatistics for me is a decoding machine of the real world. I've always been curious about how things work. And the first time I got access to Biostatistics, I find my way to figure out those confusion. I am talented in mathematics and did an excellent job in math-related courses. My flair for mathematics and statistics has been exploited in this field. I found biostatistics is more rigorous than math because it takes into consideration the gap between estimated results and reality. And it is exactly this uncertainty that promotes the development of Biostatistics. I would like to devote myself to probing the uncertainty, to narrow the gap, that is why I choose the Ph.D. program.
+
+The program you provided can give me the training necessary to carry out independent research in theory, methodology, and application of statistics to important problems in health-related research. I want to be trained into an independent researcher who will advance the field of biostatistics as you aimed. And the various research groups, centers, and institutes at Duke University would provide me with a wide range of experiences and opportunities. Thus, I desire to pursue a doctorate degree in biostatistics at Duke University.
+
+
